@@ -1,5 +1,4 @@
-<p align="center">
-  <img src= "https://github.com/user-attachments/assets/00a2fe64-0e82-4674-865a-b4ea0949a30b" alt="Banner Julieta"/>
+<img width="2928" height="352" alt="Gemini_Generated_Image_r45zxwr45zxwr45z" src="https://github.com/user-attachments/assets/1adad2c5-c42e-413c-80fa-11ec4021625e" /><p align="center">
 </p>
 
 # 💗 Hi, I'm Julieta!
